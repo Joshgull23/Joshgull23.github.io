@@ -82,8 +82,8 @@ li{
 
 .blog-content{
     width:100%;
-    padding: 20px;
-    height: 100px;
+    padding: 40px;
+    height: 200px;
     float: left;
 }
 
@@ -94,7 +94,7 @@ li{
     text-decoration: none;
     color: white;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     position: inherit;
 }
 
